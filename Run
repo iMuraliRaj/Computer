@@ -1,3 +1,7 @@
 1. To open the IIS Manager from Run
 
 command - inetmgr
+
+2. Open all the installed programmes
+
+command - appwiz.cpp
