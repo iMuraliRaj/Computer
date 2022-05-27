@@ -5,3 +5,7 @@ command - inetmgr
 2. Open all the installed programmes
 
 command - appwiz.cpp
+
+3. To view the configuration manager of the system
+
+command - msconfig
