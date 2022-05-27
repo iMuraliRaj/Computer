@@ -17,3 +17,7 @@ command - resmon
 5. To open the system information
 
 command - msinfo32
+
+6. To view the mouse properties
+
+command - main.cpl
