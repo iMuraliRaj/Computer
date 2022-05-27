@@ -9,3 +9,7 @@ command - appwiz.cpp
 3. To view the configuration manager of the system
 
 command - msconfig
+
+4. To view the resource monitor of the system
+
+command - resmon
