@@ -21,3 +21,7 @@ command - msinfo32
 6. To view the mouse properties
 
 command - main.cpl
+
+7. To open the window Registry
+
+command - regedit
