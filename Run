@@ -13,3 +13,7 @@ command - msconfig
 4. To view the resource monitor of the system
 
 command - resmon
+
+5. To open the system information
+
+command - msinfo32
