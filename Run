@@ -25,3 +25,7 @@ command - main.cpl
 7. To open the window Registry
 
 command - regedit
+
+8. To open the Control panel
+
+command - control
