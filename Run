@@ -33,3 +33,7 @@ command - control
 9. To open the temparary file folder
 
 command - %temp%
+
+10. To open the network connection in the system
+
+command = ncpa.cpl
