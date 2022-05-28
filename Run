@@ -29,3 +29,7 @@ command - regedit
 8. To open the Control panel
 
 command - control
+
+9. To open the temparary file folder
+
+command - %temp%
