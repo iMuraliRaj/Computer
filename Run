@@ -37,3 +37,7 @@ command - %temp%
 10. To open the network connection in the system
 
 command = ncpa.cpl
+
+11. To open the service
+
+command = services.msc
